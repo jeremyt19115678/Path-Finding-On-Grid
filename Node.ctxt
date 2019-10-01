@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Node(int,\ int)
+comment1.params=stuff
+comment1.target=double\ getDist(Node)
+comment2.params=stuff
+comment2.target=int\ compareTo(Node)
+comment3.params=type
+comment3.target=void\ reset(java.lang.String)
+numComments=4
